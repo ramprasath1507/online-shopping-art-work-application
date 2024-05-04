@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "662f34c8a8b430cb9a373154"
+  },
+  "name": "Mixed oil paiting",
+  "price": 245.67,
+  "description": "This piece of Abstract Art depicts the hustle and bustle of our modern Urban lives",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/1.jpg"
+    },
+    {
+      "image": "/images/products/2.jpg"
+    }
+  ],
+  "category": "Oil paints on canvas",
+  "seller": "Laraib Zeeshan\nArtist • Karachi • Pakistan",
+  "stock": "10"
+},
+{
+  "_id": {
+    "$oid": "662f34c8a8b430cb9a373155"
+  },
+  "name": "The Guilt pencil art",
+  "price": 150.32,
+  "description": "This is an abstract art depicting the regret of losing the loved ones due to arrogance,misunderstandings and useless ego.",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/2.jpg"
+    }
+  ],
+  "category": "pencil art",
+  "seller": "Laraib Zeeshan\nArtist • Karachi • Pakistan",
+  "stock": 8
+},
+{
+  "_id": {
+    "$oid": "662f34c8a8b430cb9a373156"
+  },
+  "name": "The White horse paiting",
+  "price": 440.57,
+  "description": "Unlike so many creatures horses are loyal they are symbol of intelligence and royalty. They have exquisite beauty that anyone can instantly fall for their charm. I have become brave by eating the wound",
+  "ratings": 2,
+  "images": [
+    {
+      "image": "/images/products/3.jpg"
+    }
+  ],
+  "category": "water painting",
+  "seller": "Albania",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "662f34c8a8b430cb9a373157"
+  },
+  "name": "Oil on canvas",
+  "price": 250.45,
+  "description": "It is evening when you exit the enormous canyon known as “Siq” in Jordania. In front of you lies the treasury “Al Khazneh”, which is the centerpiece of the rock city Petra, one of the new seven world wonders. ",
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/products/6.jpg"
+    }
+  ],
+  "category": "oil painting",
+  "seller": "Jens Oelker•Belgium",
+  "stock": 9
+},
+{
+  "_id": {
+    "$oid": "662f34c8a8b430cb9a373158"
+  },
+  "name": "Through my eyes ",
+  "price": 767.32,
+  "description": "a canvas of raw emotion, Brushed with hues of ache and devotion. In strokes of sorrow, shadows blend, A masterpiece of wounds that never mend.",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/7.jpg"
+    }
+  ],
+  "category": "painting",
+  "seller": "Ayşegül Güvelioğlu\npremiumBadge• Turkey\n",
+  "stock": 6
+},
+{
+  "_id": {
+    "$oid": "662f34c8a8b430cb9a373159"
+  },
+  "name": "keep strong cat oil painting",
+  "price": 15.46,
+  "description": "orange cat with a pot of red flower. use van gogh style, hope you like it",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/4.jpg"
+    }
+  ],
+  "category": "oil paintin",
+  "seller": "Arya Dipataruna\n•Indonesia",
+  "stock": 4
+},
+{
+  "_id": {
+    "$oid": "662f34c8a8b430cb9a37315a"
+  },
+  "name": "Keanu Charles Reeves - John Wick - Water painting",
+  "price": 10.12,
+  "description": "Keanu Reeves is a Canadian actor who has appeared in films, television series and video games. He made his film debut in the short One Step Away in 1985.",
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/products/5.jpg"
+    }
+  ],
+  "category": "Water painting",
+  "seller": "Ebay",
+  "stock": 6
+}]
